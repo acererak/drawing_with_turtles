@@ -15,3 +15,4 @@ Exercies 1 through 8 each present functions that draw specific images when given
   Ex. 8: A Koch snowflake, constructed recursively. Read more about the Koch snowflake here:  
   http://en.wikipedia.org/wiki/Koch_snowflake
   
+  
