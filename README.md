@@ -24,4 +24,4 @@ Exercies 1 through 8 each present functions that draw specific images when given
  
   http://en.wikipedia.org/wiki/Koch_snowflake
   
-   
+  To test, un-comment out whatever line of the test cases you want to try out in terminal.
