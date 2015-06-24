@@ -274,7 +274,7 @@ def flowerPower(turtle,length,number):
         turtle.rt(210)
 
         turtle.rt(360/number)
-https://github.com/acererak/drawing_with_turtles
+        
     turtle.pu()
 
 ###############################################################################
